@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "/projectimg/getbook2.jpg",
+        "title": "Getbooks",
+        "content": "I developed a user-friendly website using React.js and vanilla CSS, enabling users to search for books via the Google Books API, view detailed information, and sell their books by creating posts with images and descriptions. The site is fully responsive and features authentication with a local JSON server.",
+        "link": "https://getbooksandsell.netlify.app",
+        "gitlink": "https://github.com/rakesh3377/Getbooks"
+    },
+    {
+        "id": 2,
+        "image": "/projectimg/movie.jpg",
+        "title": "Movie-buzz",
+        "content": "I developed a responsive website using React, allowing users to search for movies via the DMDB API. The project utilizes useState and useEffect hooks for efficient data handling.",
+        "link": "https://moviebuzzzzzz.netlify.app",
+        "gitlink": "https://github.com/rakesh3377/Movie-buzz"
+    },
+    {
+        "id": 3,
+        "image": "/projectimg/weather.jpg",
+        "title": "Weather App",
+        "content": "A weather app in React.js uses `fetch` to get real-time weather data from an API, updating the UI based on the user's input. Users can see current weather and forecasts for their area. ",
+        "link": "https://weathera33.netlify.app/",
+        "gitlink": "https://github.com/rakesh3377/Weather-app"
+    },
+    {
+        "id": 4,
+        "image": "/projectimg/getcomics.jpg",
+        "title": "getcomics",
+        "content": "This is my first Bootstrap project. I am learning how Bootstrap works and how to develop a responsive website.",
+        "link": "https://deft-cat-260e80.netlify.app",
+        "gitlink": "https://github.com/rakesh3377/Getcomics"
+    },
+    {
+        "id": 5,
+        "image": "/projectimg/currency.jpg",
+        "title": "Money-Conventor",
+        "content": "In this project, I will develop a currency converter application that fetches data from an external API. It will convert all types of currencies, to their equivalent value in other countries currencies.",
+        "link": "https://currency-converter128.netlify.app/",
+        "gitlink": "https://github.com/rakesh3377/Currency-Converter"
+    },
+    {
+        "id": 6,
+        "image": "/projectimg/crud.jpg",
+        "title": "Crud App",
+        "content": "In this CRUD application project, I used dummy JSON data to display a table using fetch operations. We can add new data to the table, and also edit and delete data instantly. All these operations are performed using the fetch concept.",
+        "link": "https://crud-app20.netlify.app/",
+        "gitlink": "https://github.com/rakesh3377/Crud-app"
+    }
+
+]

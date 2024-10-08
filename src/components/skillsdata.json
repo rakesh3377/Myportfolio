@@ -1,0 +1,53 @@
+[
+    {
+        "id" : 1,
+        "title": "HTML",
+        "img": "/Skill/html.png",
+        "overview": "80%"
+    },
+    {
+        "id" : 2,
+        "title": "CSS",
+        "img": "/Skill/css.png"
+    },
+    {
+        "id" : 3,
+        "title": "JavaScript",
+        "img": "/Skill/javascript.png"
+    },
+    {
+        "id" : 4,
+        "title": "React Js",
+        "img": "/Skill/react.png"
+    },
+    {
+        "id": 5,
+        "title": "Redux",
+        "img": "./Skill/redux.png"
+    },
+    {
+        "id" : 6,
+        "title": "Jquery",
+        "img": "/Skill/jquery.png"
+    },
+    {
+        "id" : 7,
+        "title": "Bootstrap",
+        "img" : "/Skill/bootstrap.png"
+    },
+    {
+        "id" :8,
+        "title": "Json",
+        "img": "/Skill/json.png"
+    },
+    {
+        "id" : 9,
+        "title": "GitHub",
+        "img": "/Skill/github.png"
+    },
+    {
+        "id": 10,
+        "title": "Mysql",
+        "img": "./Skill/mysql.png"
+    }
+]
